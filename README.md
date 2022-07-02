@@ -2,6 +2,8 @@
 
 这是一个自娱自乐的项目。
 
+Sorry, this repostitory is just for fun, and does not support English or other non-Chinese languages at this time.
+
 自2018年Prof. Wang的[Supervised Speech Separation Based on Deep Learning: An Overview](https://ieeexplore.ieee.org/document/8369155)之后，
 似乎总缺少关于语音增强领域的综述。然而不论是学术界还是业界，近年来语音增强领域的发展都是迅速的。
 因此，面对他人问及有关深度学习语音增强技术的资料时，我总不能找到一份于今日而言仍是满意的文献或博客。
