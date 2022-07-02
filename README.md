@@ -25,7 +25,7 @@ Sorry, this repostitory is just for fun, and does not support English or other n
 * 本项目因并未完成且涉及社区开源代码，暂不支持任何形式的转载；
 * 本项目[**请勿**]()issue、fork和PR，如有问题或希望参与其中可[邮件](liuwenzhe@mail.ioa.ac.cn)沟通；
 * 本项目参考文献引用尚不完全、内容尚待更新、图文尚需校正；之所以现在设为public是因为无法在项目private时通过网址访问；
-* 本项目初衷是面向国人的，因此暂不考虑英文版；
+* 本项目暂不考虑英文版；
 * 本项目初步打算完成基于深度学习的单通道语音增强算法部分(Part 1)，后续可能会拓展去混响、AEC、AGC和阵列部分作为其他Part；
 * Latex模板修改自Springer
 
